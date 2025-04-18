@@ -1,0 +1,11 @@
+nav ul {
+    display: flex;
+    list-style-type: none;
+    background-color: gray;
+    padding: 1rem;
+    width: 100%;
+}
+
+ul {
+    gap :20px
+}
